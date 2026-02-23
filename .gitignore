@@ -1,0 +1,9 @@
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+*.db
+outputs/published/*.jsonl
+outputs/dead-letter/*.jsonl
+outputs/reports/*.json

@@ -1,0 +1,3 @@
+{"record_key":"u-100","full_name":"Ada Lovelace","email":"ada@example.com","age":33,"source":"web"}
+{"record_key":"u-101","full_name":"Grace Hopper","email":"grace@example.com","age":44,"source":"partner"}
+{"record_key":"u-102","full_name":"","email":"bad-email","age":12,"source":"web"}
